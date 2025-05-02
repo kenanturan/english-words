@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "1",
+    "original": "no",
+    "translations": {
+      "en": "no",
+      "tr": "hayır",
+      "es": "no",
+      "fr": "non",
+      "de": "nein",
+      "ar": "لا",
+      "ru": "нет",
+      "zh": "不",
+      "pt": "não",
+      "it": "no"
+    }
+  },
+  {
+    "id": "2",
+    "original": "he's",
+    "translations": {
+      "en": "he's",
+      "tr": "o (erkek)",
+      "es": "él está",
+      "fr": "il est",
+      "de": "er ist",
+      "ar": "إنه",
+      "ru": "он",
+      "zh": "他是",
+      "pt": "ele está",
+      "it": "lui è"
+    }
+  },
+  {
+    "id": "3",
+    "original": "coming",
+    "translations": {
+      "en": "coming",
+      "tr": "geliyor",
+      "es": "viniendo",
+      "fr": "venant",
+      "de": "kommt",
+      "ar": "قادِم",
+      "ru": "приходит",
+      "zh": "来了",
+      "pt": "vindo",
+      "it": "arrivando"
+    }
+  },
+  {
+    "id": "4",
+    "original": "wanted",
+    "translations": {
+      "en": "wanted",
+      "tr": "istedi",
+      "es": "quería",
+      "fr": "voulu",
+      "de": "wollte",
+      "ar": "أراد",
+      "ru": "хотел",
+      "zh": "想要",
+      "pt": "queria",
+      "it": "voleva"
+    }
+  },
+  {
+    "id": "5",
+    "original": "put",
+    "translations": {
+      "en": "put",
+      "tr": "koymak",
+      "es": "poner",
+      "fr": "mettre",
+      "de": "stellen",
+      "ar": "وضع",
+      "ru": "положить",
+      "zh": "放",
+      "pt": "colocar",
+      "it": "mettere"
+    }
+  },
+  {
+    "id": "6",
+    "original": "love",
+    "translations": {
+      "en": "love",
+      "tr": "aşk",
+      "es": "amor",
+      "fr": "amour",
+      "de": "liebe",
+      "ar": "حب",
+      "ru": "любовь",
+      "zh": "爱",
+      "pt": "amor",
+      "it": "amore"
+    }
+  },
+  {
+    "id": "7",
+    "original": "potion",
+    "translations": {
+      "en": "potion",
+      "tr": "iksir",
+      "es": "poción",
+      "fr": "potion",
+      "de": "Trank",
+      "ar": "جرعة",
+      "ru": "зелье",
+      "zh": "药水",
+      "pt": "poção",
+      "it": "pozione"
+    }
+  },
+  {
+    "id": "8",
+    "original": "into",
+    "translations": {
+      "en": "into",
+      "tr": "içine",
+      "es": "dentro de",
+      "fr": "dans",
+      "de": "in",
+      "ar": "إلى",
+      "ru": "в",
+      "zh": "进入",
+      "pt": "em",
+      "it": "in"
+    }
+  },
+  {
+    "id": "9",
+    "original": "boss's",
+    "translations": {
+      "en": "boss's",
+      "tr": "patronun",
+      "es": "del jefe",
+      "fr": "du patron",
+      "de": "des Chefs",
+      "ar": "الخاصة بالمدير",
+      "ru": "начальника",
+      "zh": "老板的",
+      "pt": "do chefe",
+      "it": "del capo"
+    }
+  },
+  {
+    "id": "10",
+    "original": "cup",
+    "translations": {
+      "en": "cup",
+      "tr": "kupa",
+      "es": "taza",
+      "fr": "tasse",
+      "de": "Tasse",
+      "ar": "كوب",
+      "ru": "чашка",
+      "zh": "杯子",
+      "pt": "xícara",
+      "it": "tazza"
+    }
+  },
+  {
+    "id": "11",
+    "original": "seduce",
+    "translations": {
+      "en": "seduce",
+      "tr": "baştan çıkarmak",
+      "es": "seducir",
+      "fr": "séduire",
+      "de": "verführen",
+      "ar": "يغوي",
+      "ru": "соблазнять",
+      "zh": "诱惑",
+      "pt": "seduzir",
+      "it": "sedurre"
+    }
+  },
+  {
+    "id": "12",
+    "original": "didn't",
+    "translations": {
+      "en": "didn't",
+      "tr": "yapmadı",
+      "es": "no hizo",
+      "fr": "n'a pas",
+      "de": "tat nicht",
+      "ar": "لم يفعل",
+      "ru": "не сделал",
+      "zh": "没有",
+      "pt": "não fez",
+      "it": "non ha"
+    }
+  },
+  {
+    "id": "13",
+    "original": "go",
+    "translations": {
+      "en": "go",
+      "tr": "gitmek",
+      "es": "ir",
+      "fr": "aller",
+      "de": "gehen",
+      "ar": "يذهب",
+      "ru": "идти",
+      "zh": "去",
+      "pt": "ir",
+      "it": "andare"
+    }
+  },
+  {
+    "id": "14",
+    "original": "according",
+    "translations": {
+      "en": "according",
+      "tr": "göre",
+      "es": "según",
+      "fr": "selon",
+      "de": "laut",
+      "ar": "وفقًا",
+      "ru": "согласно",
+      "zh": "根据",
+      "pt": "de acordo",
+      "it": "secondo"
+    }
+  },
+  {
+    "id": "15",
+    "original": "plan",
+    "translations": {
+      "en": "plan",
+      "tr": "plan",
+      "es": "plan",
+      "fr": "plan",
+      "de": "Plan",
+      "ar": "خطة",
+      "ru": "план",
+      "zh": "计划",
+      "pt": "plano",
+      "it": "piano"
+    }
+  },
+  {
+    "id": "16",
+    "original": "name",
+    "translations": {
+      "en": "name",
+      "tr": "isim",
+      "es": "nombre",
+      "fr": "nom",
+      "de": "Name",
+      "ar": "اسم",
+      "ru": "имя",
+      "zh": "名字",
+      "pt": "nome",
+      "it": "nome"
+    }
+  },
+  {
+    "id": "17",
+    "original": "story",
+    "translations": {
+      "en": "story",
+      "tr": "hikâye",
+      "es": "historia",
+      "fr": "histoire",
+      "de": "Geschichte",
+      "ar": "قصة",
+      "ru": "история",
+      "zh": "故事",
+      "pt": "história",
+      "it": "storia"
+    }
+  },
+  {
+    "id": "18",
+    "original": "poured",
+    "translations": {
+      "en": "poured",
+      "tr": "döktü",
+      "es": "vertió",
+      "fr": "versé",
+      "de": "goss",
+      "ar": "سكب",
+      "ru": "налил",
+      "zh": "倒",
+      "pt": "derramou",
+      "it": "versò"
+    }
+  },
+  {
+    "id": "19",
+    "original": "Hello",
+    "translations": {
+      "en": "Hello",
+      "tr": "Merhaba",
+      "es": "Hola",
+      "fr": "Bonjour",
+      "de": "Hallo",
+      "ar": "مرحبا",
+      "ru": "Привет",
+      "zh": "你好",
+      "pt": "Olá",
+      "it": "Ciao"
+    }
+  },
+  {
+    "id": "20",
+    "original": "sir",
+    "translations": {
+      "en": "sir",
+      "tr": "efendim",
+      "es": "señor",
+      "fr": "monsieur",
+      "de": "Herr",
+      "ar": "سيدي",
+      "ru": "сэр",
+      "zh": "先生",
+      "pt": "senhor",
+      "it": "signore"
+    }
+  },
+  {
+    "id": "21",
+    "original": "just",
+    "translations": {
+      "en": "just",
+      "tr": "sadece",
+      "es": "solo",
+      "fr": "juste",
+      "de": "nur",
+      "ar": "فقط",
+      "ru": "просто",
+      "zh": "只是",
+      "pt": "apenas",
+      "it": "solo"
+    }
+  },
+  {
+    "id": "22",
+    "original": "say",
+    "translations": {
+      "en": "say",
+      "tr": "söylemek",
+      "es": "decir",
+      "fr": "dire",
+      "de": "sagen",
+      "ar": "يقول",
+      "ru": "сказать",
+      "zh": "说",
+      "pt": "dizer",
+      "it": "dire"
+    }
+  },
+  {
+    "id": "23",
+    "original": "okay",
+    "translations": {
+      "en": "okay",
+      "tr": "tamam",
+      "es": "vale",
+      "fr": "d'accord",
+      "de": "okay",
+      "ar": "حسنا",
+      "ru": "хорошо",
+      "zh": "好",
+      "pt": "ok",
+      "it": "ok"
+    }
+  },
+  {
+    "id": "24",
+    "original": "wait",
+    "translations": {
+      "en": "wait",
+      "tr": "beklemek",
+      "es": "esperar",
+      "fr": "attendre",
+      "de": "warten",
+      "ar": "انتظر",
+      "ru": "ждать",
+      "zh": "等",
+      "pt": "esperar",
+      "it": "aspettare"
+    }
+  },
+  {
+    "id": "25",
+    "original": "interrupting",
+    "translations": {
+      "en": "interrupting",
+      "tr": "bölmek",
+      "es": "interrumpir",
+      "fr": "interrompre",
+      "de": "unterbrechen",
+      "ar": "يقاطع",
+      "ru": "перебивать",
+      "zh": "打断",
+      "pt": "interromper",
+      "it": "interrompere"
+    }
+  },
+  {
+    "id": "26",
+    "original": "listening",
+    "translations": {
+      "en": "listening",
+      "tr": "dinlemek",
+      "es": "escuchando",
+      "fr": "écouter",
+      "de": "zuhören",
+      "ar": "يستمع",
+      "ru": "слушать",
+      "zh": "听",
+      "pt": "ouvindo",
+      "it": "ascoltare"
+    }
+  },
+  {
+    "id": "27",
+    "original": "carefully",
+    "translations": {
+      "en": "carefully",
+      "tr": "dikkatlice",
+      "es": "cuidadosamente",
+      "fr": "attentivement",
+      "de": "vorsichtig",
+      "ar": "بعناية",
+      "ru": "внимательно",
+      "zh": "仔细地",
+      "pt": "cuidadosamente",
+      "it": "attentamente"
+    }
+  },
+  {
+    "id": "28",
+    "original": "yes",
+    "translations": {
+      "en": "yes",
+      "tr": "evet",
+      "es": "sí",
+      "fr": "oui",
+      "de": "ja",
+      "ar": "نعم",
+      "ru": "да",
+      "zh": "是",
+      "pt": "sim",
+      "it": "sì"
+    }
+  },
+  {
+    "id": "29",
+    "original": "Only",
+    "translations": {
+      "en": "Only",
+      "tr": "sadece",
+      "es": "solo",
+      "fr": "seulement",
+      "de": "nur",
+      "ar": "فقط",
+      "ru": "только",
+      "zh": "只有",
+      "pt": "apenas",
+      "it": "solo"
+    }
+  },
+  {
+    "id": "30",
+    "original": "sorry",
+    "translations": {
+      "en": "sorry",
+      "tr": "üzgün",
+      "es": "lo siento",
+      "fr": "désolé",
+      "de": "entschuldigung",
+      "ar": "آسف",
+      "ru": "извини",
+      "zh": "对不起",
+      "pt": "desculpe",
+      "it": "scusa"
+    }
+  },
+  {
+    "id": "31",
+    "original": "yeah",
+    "translations": {
+      "en": "yeah",
+      "tr": "evet (resmî olmayan)",
+      "es": "sí (informal)",
+      "fr": "ouais",
+      "de": "ja (umgangssprachlich)",
+      "ar": "أجل",
+      "ru": "ага",
+      "zh": "嗯",
+      "pt": "sim (informal)",
+      "it": "già"
+    }
+  },
+  {
+    "id": "32",
+    "original": "wonderful",
+    "translations": {
+      "en": "wonderful",
+      "tr": "harika",
+      "es": "maravilloso",
+      "fr": "merveilleux",
+      "de": "wunderbar",
+      "ar": "رائع",
+      "ru": "прекрасно",
+      "zh": "精彩的",
+      "pt": "maravilhoso",
+      "it": "meraviglioso"
+    }
+  },
+  {
+    "id": "33",
+    "original": "day",
+    "translations": {
+      "en": "day",
+      "tr": "gün",
+      "es": "día",
+      "fr": "jour",
+      "de": "Tag",
+      "ar": "يوم",
+      "ru": "день",
+      "zh": "天",
+      "pt": "dia",
+      "it": "giorno"
+    }
+  },
+  {
+    "id": "34",
+    "original": "hell",
+    "translations": {
+      "en": "hell",
+      "tr": "cehennem",
+      "es": "infierno",
+      "fr": "enfer",
+      "de": "Hölle",
+      "ar": "جحيم",
+      "ru": "ад",
+      "zh": "地狱",
+      "pt": "inferno",
+      "it": "inferno"
+    }
+  },
+  {
+    "id": "35",
+    "original": "take",
+    "translations": {
+      "en": "take",
+      "tr": "almak",
+      "es": "tomar",
+      "fr": "prendre",
+      "de": "nehmen",
+      "ar": "يأخذ",
+      "ru": "взять",
+      "zh": "拿",
+      "pt": "tomar",
+      "it": "prendere"
+    }
+  },
+  {
+    "id": "36",
+    "original": "trying",
+    "translations": {
+      "en": "trying",
+      "tr": "denemek",
+      "es": "intentando",
+      "fr": "essayer",
+      "de": "versuchen",
+      "ar": "يحاول",
+      "ru": "пытаться",
+      "zh": "尝试",
+      "pt": "tentando",
+      "it": "cercando"
+    }
+  },
+  {
+    "id": "37",
+    "original": "hard",
+    "translations": {
+      "en": "hard",
+      "tr": "zor",
+      "es": "difícil",
+      "fr": "dur",
+      "de": "schwer",
+      "ar": "صعب",
+      "ru": "трудно",
+      "zh": "困难的",
+      "pt": "difícil",
+      "it": "difficile"
+    }
+  },
+  {
+    "id": "38",
+    "original": "get",
+    "translations": {
+      "en": "get",
+      "tr": "almak",
+      "es": "obtener",
+      "fr": "obtenir",
+      "de": "bekommen",
+      "ar": "يحصل",
+      "ru": "получить",
+      "zh": "得到",
+      "pt": "obter",
+      "it": "ottenere"
+    }
+  },
+  {
+    "id": "39",
+    "original": "man's",
+    "translations": {
+      "en": "man's",
+      "tr": "adamın",
+      "es": "del hombre",
+      "fr": "de l'homme",
+      "de": "des Mannes",
+      "ar": "رجل",
+      "ru": "мужчины",
+      "zh": "男人的",
+      "pt": "do homem",
+      "it": "dell'uomo"
+    }
+  },
+  {
+    "id": "40",
+    "original": "noticed",
+    "translations": {
+      "en": "noticed",
+      "tr": "fark etti",
+      "es": "notó",
+      "fr": "remarqué",
+      "de": "bemerkt",
+      "ar": "لاحظ",
+      "ru": "заметил",
+      "zh": "注意到",
+      "pt": "percebeu",
+      "it": "notato"
+    }
+  },
+  {
+    "id": "41",
+    "original": "other",
+    "translations": {
+      "en": "other",
+      "tr": "diğer",
+      "es": "otro",
+      "fr": "autre",
+      "de": "andere",
+      "ar": "آخر",
+      "ru": "другой",
+      "zh": "其他",
+      "pt": "outro",
+      "it": "altro"
+    }
+  },
+  {
+    "id": "42",
+    "original": "men's",
+    "translations": {
+      "en": "men's",
+      "tr": "erkeklerin",
+      "es": "de los hombres",
+      "fr": "des hommes",
+      "de": "der Männer",
+      "ar": "للرجال",
+      "ru": "мужчин",
+      "zh": "男人的",
+      "pt": "dos homens",
+      "it": "degli uomini"
+    }
+  },
+  {
+    "id": "43",
+    "original": "Mr",
+    "translations": {
+      "en": "Mr",
+      "tr": "Bay",
+      "es": "Sr.",
+      "fr": "M.",
+      "de": "Herr",
+      "ar": "السيد",
+      "ru": "г-н",
+      "zh": "先生",
+      "pt": "Sr.",
+      "it": "Sig."
+    }
+  },
+  {
+    "id": "44",
+    "original": "here's",
+    "translations": {
+      "en": "here's",
+      "tr": "işte",
+      "es": "aquí está",
+      "fr": "voici",
+      "de": "hier ist",
+      "ar": "ها هو",
+      "ru": "вот",
+      "zh": "这是",
+      "pt": "aqui está",
+      "it": "ecco"
+    }
+  },
+  {
+    "id": "45",
+    "original": "your",
+    "translations": {
+      "en": "your",
+      "tr": "senin",
+      "es": "tu",
+      "fr": "ton",
+      "de": "dein",
+      "ar": "لك",
+      "ru": "твой",
+      "zh": "你的",
+      "pt": "teu",
+      "it": "tuo"
+    }
+  },
+  {
+    "id": "46",
+    "original": "first",
+    "translations": {
+      "en": "first",
+      "tr": "ilk",
+      "es": "primero",
+      "fr": "premier",
+      "de": "erste",
+      "ar": "أول",
+      "ru": "первый",
+      "zh": "第一",
+      "pt": "primeiro",
+      "it": "primo"
+    }
+  },
+  {
+    "id": "47",
+    "original": "six",
+    "translations": {
+      "en": "six",
+      "tr": "altı",
+      "es": "seis",
+      "fr": "six",
+      "de": "sechs",
+      "ar": "ستة",
+      "ru": "шесть",
+      "zh": "六",
+      "pt": "seis",
+      "it": "sei"
+    }
+  },
+  {
+    "id": "48",
+    "original": "months",
+    "translations": {
+      "en": "months",
+      "tr": "ay",
+      "es": "meses",
+      "fr": "mois",
+      "de": "Monate",
+      "ar": "أشهر",
+      "ru": "месяцы",
+      "zh": "个月",
+      "pt": "meses",
+      "it": "mesi"
+    }
+  },
+  {
+    "id": "49",
+    "original": "paying",
+    "translations": {
+      "en": "paying",
+      "tr": "ödemek / dikkat vermek",
+      "es": "pagando",
+      "fr": "payer",
+      "de": "zahlen",
+      "ar": "يدفع",
+      "ru": "платить",
+      "zh": "支付",
+      "pt": "pagando",
+      "it": "pagare"
+    }
+  },
+  {
+    "id": "50",
+    "original": "attention",
+    "translations": {
+      "en": "attention",
+      "tr": "dikkat",
+      "es": "atención",
+      "fr": "attention",
+      "de": "Aufmerksamkeit",
+      "ar": "انتباه",
+      "ru": "внимание",
+      "zh": "注意",
+      "pt": "atenção",
+      "it": "attenzione"
+    }
+  },
+  {
+    "id": "51",
+    "original": "starting",
+    "translations": {
+      "en": "starting",
+      "tr": "başlamak",
+      "es": "empezando",
+      "fr": "commencer",
+      "de": "anfangen",
+      "ar": "يبدأ",
+      "ru": "начинать",
+      "zh": "开始",
+      "pt": "começando",
+      "it": "iniziare"
+    }
+  },
+  {
+    "id": "52",
+    "original": "work",
+    "translations": {
+      "en": "work",
+      "tr": "çalışmak",
+      "es": "trabajo",
+      "fr": "travail",
+      "de": "Arbeit",
+      "ar": "عمل",
+      "ru": "работа",
+      "zh": "工作",
+      "pt": "trabalho",
+      "it": "lavoro"
+    }
+  },
+  {
+    "id": "53",
+    "original": "wondering",
+    "translations": {
+      "en": "wondering",
+      "tr": "merak etmek",
+      "es": "preguntándose",
+      "fr": "se demander",
+      "de": "sich fragen",
+      "ar": "يتساءل",
+      "ru": "интересоваться",
+      "zh": "想知道",
+      "pt": "perguntando-se",
+      "it": "chiedendosi"
+    }
+  },
+  {
+    "id": "54",
+    "original": "discuss",
+    "translations": {
+      "en": "discuss",
+      "tr": "tartışmak",
+      "es": "discutir",
+      "fr": "discuter",
+      "de": "besprechen",
+      "ar": "يناقش",
+      "ru": "обсуждать",
+      "zh": "讨论",
+      "pt": "discutir",
+      "it": "discutere"
+    }
+  },
+  {
+    "id": "55",
+    "original": "example",
+    "translations": {
+      "en": "example",
+      "tr": "örnek",
+      "es": "ejemplo",
+      "fr": "exemple",
+      "de": "Beispiel",
+      "ar": "مثال",
+      "ru": "пример",
+      "zh": "例子",
+      "pt": "exemplo",
+      "it": "esempio"
+    }
+  },
+  {
+    "id": "56",
+    "original": "weekend",
+    "translations": {
+      "en": "weekend",
+      "tr": "hafta sonu",
+      "es": "fin de semana",
+      "fr": "week-end",
+      "de": "Wochenende",
+      "ar": "عطلة نهاية الأسبوع",
+      "ru": "выходные",
+      "zh": "周末",
+      "pt": "fim de semana",
+      "it": "fine settimana"
+    }
+  },
+  {
+    "id": "57",
+    "original": "matter",
+    "translations": {
+      "en": "matter",
+      "tr": "mesele",
+      "es": "asunto",
+      "fr": "affaire",
+      "de": "Angelegenheit",
+      "ar": "مسألة",
+      "ru": "вопрос",
+      "zh": "事情",
+      "pt": "questão",
+      "it": "questione"
+    }
+  },
+  {
+    "id": "58",
+    "original": "whatever",
+    "translations": {
+      "en": "whatever",
+      "tr": "her neyse",
+      "es": "lo que sea",
+      "fr": "peu importe",
+      "de": "was auch immer",
+      "ar": "مهما كان",
+      "ru": "что бы ни",
+      "zh": "无论什么",
+      "pt": "qualquer coisa",
+      "it": "qualunque"
+    }
+  },
+  {
+    "id": "59",
+    "original": "never",
+    "translations": {
+      "en": "never",
+      "tr": "asla",
+      "es": "nunca",
+      "fr": "jamais",
+      "de": "nie",
+      "ar": "أبدا",
+      "ru": "никогда",
+      "zh": "从不",
+      "pt": "nunca",
+      "it": "mai"
+    }
+  },
+  {
+    "id": "60",
+    "original": "returned",
+    "translations": {
+      "en": "returned",
+      "tr": "döndü",
+      "es": "regresó",
+      "fr": "revenu",
+      "de": "zurückgekehrt",
+      "ar": "عاد",
+      "ru": "вернулся",
+      "zh": "返回",
+      "pt": "voltou",
+      "it": "tornato"
+    }
+  },
+  {
+    "id": "61",
+    "original": "latest",
+    "translations": {
+      "en": "latest",
+      "tr": "en son",
+      "es": "último",
+      "fr": "dernier",
+      "de": "neueste",
+      "ar": "الأحدث",
+      "ru": "последний",
+      "zh": "最新",
+      "pt": "mais recente",
+      "it": "ultimo"
+    }
+  },
+  {
+    "id": "62",
+    "original": "attempt",
+    "translations": {
+      "en": "attempt",
+      "tr": "girişim",
+      "es": "intento",
+      "fr": "tentative",
+      "de": "Versuch",
+      "ar": "محاولة",
+      "ru": "попытка",
+      "zh": "尝试",
+      "pt": "tentativa",
+      "it": "tentativo"
+    }
+  },
+  {
+    "id": "63",
+    "original": "complete",
+    "translations": {
+      "en": "complete",
+      "tr": "tam",
+      "es": "completo",
+      "fr": "complet",
+      "de": "vollständig",
+      "ar": "كامل",
+      "ru": "полный",
+      "zh": "完整",
+      "pt": "completo",
+      "it": "completo"
+    }
+  },
+  {
+    "id": "64",
+    "original": "failure",
+    "translations": {
+      "en": "failure",
+      "tr": "başarısızlık",
+      "es": "fracaso",
+      "fr": "échec",
+      "de": "Misserfolg",
+      "ar": "فشل",
+      "ru": "неудача",
+      "zh": "失败",
+      "pt": "fracasso",
+      "it": "fallimento"
+    }
+  },
+  {
+    "id": "65",
+    "original": "worth",
+    "translations": {
+      "en": "worth",
+      "tr": "değer",
+      "es": "valor",
+      "fr": "valeur",
+      "de": "Wert",
+      "ar": "قيمة",
+      "ru": "ценность",
+      "zh": "价值",
+      "pt": "valor",
+      "it": "valore"
+    }
+  },
+  {
+    "id": "66",
+    "original": "tears",
+    "translations": {
+      "en": "tears",
+      "tr": "gözyaşları",
+      "es": "lágrimas",
+      "fr": "larmes",
+      "de": "Tränen",
+      "ar": "دموع",
+      "ru": "слёзы",
+      "zh": "眼泪",
+      "pt": "lágrimas",
+      "it": "lacrime"
+    }
+  },
+  {
+    "id": "67",
+    "original": "Maybe",
+    "translations": {
+      "en": "maybe",
+      "tr": "belki",
+      "es": "quizás",
+      "fr": "peut-être",
+      "de": "vielleicht",
+      "ar": "ربما",
+      "ru": "может быть",
+      "zh": "也许",
+      "pt": "talvez",
+      "it": "forse"
+    }
+  },
+  {
+    "id": "68",
+    "original": "slipping",
+    "translations": {
+      "en": "slipping",
+      "tr": "gizlice vermek",
+      "es": "deslizar",
+      "fr": "glisser",
+      "de": "schleichen",
+      "ar": "ينزلق",
+      "ru": "подсовывать",
+      "zh": "悄悄放入",
+      "pt": "deslizar",
+      "it": "infilare"
+    }
+  },
+  {
+    "id": "69",
+    "original": "again",
+    "translations": {
+      "en": "again",
+      "tr": "tekrar",
+      "es": "otra vez",
+      "fr": "encore",
+      "de": "wieder",
+      "ar": "مرة أخرى",
+      "ru": "снова",
+      "zh": "再",
+      "pt": "de novo",
+      "it": "di nuovo"
+    }
+  },
+  {
+    "id": "70",
+    "original": "made",
+    "translations": {
+      "en": "made",
+      "tr": "yaptı",
+      "es": "hecho",
+      "fr": "fait",
+      "de": "gemacht",
+      "ar": "صنع",
+      "ru": "сделал",
+      "zh": "做",
+      "pt": "feito",
+      "it": "fatto"
+    }
+  },
+  {
+    "id": "71",
+    "original": "reservations",
+    "translations": {
+      "en": "reservations",
+      "tr": "rezervasyonlar",
+      "es": "reservas",
+      "fr": "réservations",
+      "de": "Reservierungen",
+      "ar": "حجوزات",
+      "ru": "бронирования",
+      "zh": "预订",
+      "pt": "reservas",
+      "it": "prenotazioni"
+    }
+  },
+  {
+    "id": "72",
+    "original": "planned",
+    "translations": {
+      "en": "planned",
+      "tr": "planladı",
+      "es": "planeado",
+      "fr": "prévu",
+      "de": "geplant",
+      "ar": "خطط",
+      "ru": "запланировал",
+      "zh": "计划好的",
+      "pt": "planejado",
+      "it": "pianificato"
+    }
+  },
+  {
+    "id": "73",
+    "original": "walk",
+    "translations": {
+      "en": "walk",
+      "tr": "yürüyüş",
+      "es": "paseo",
+      "fr": "promenade",
+      "de": "Spaziergang",
+      "ar": "مشية",
+      "ru": "прогулка",
+      "zh": "散步",
+      "pt": "passeio",
+      "it": "passeggiata"
+    }
+  },
+  {
+    "id": "74",
+    "original": "wax",
+    "translations": {
+      "en": "wax",
+      "tr": "ağda",
+      "es": "cera",
+      "fr": "cire",
+      "de": "Wachs",
+      "ar": "شمع",
+      "ru": "воск",
+      "zh": "蜡",
+      "pt": "cera",
+      "it": "ceretta"
+    }
+  },
+  {
+    "id": "75",
+    "original": "went",
+    "translations": {
+      "en": "went",
+      "tr": "gitti",
+      "es": "fue",
+      "fr": "allé",
+      "de": "ging",
+      "ar": "ذهب",
+      "ru": "пошёл",
+      "zh": "去了",
+      "pt": "foi",
+      "it": "andato"
+    }
+  },
+  {
+    "id": "76",
+    "original": "through",
+    "translations": {
+      "en": "through",
+      "tr": "boyunca",
+      "es": "a través de",
+      "fr": "à travers",
+      "de": "durch",
+      "ar": "من خلال",
+      "ru": "через",
+      "zh": "通过",
+      "pt": "através de",
+      "it": "attraverso"
+    }
+  },
+  {
+    "id": "77",
+    "original": "trouble",
+    "translations": {
+      "en": "trouble",
+      "tr": "zahmet",
+      "es": "problema",
+      "fr": "problème",
+      "de": "Ärger",
+      "ar": "مشكلة",
+      "ru": "проблема",
+      "zh": "麻烦",
+      "pt": "problema",
+      "it": "problema"
+    }
+  },
+  {
+    "id": "78",
+    "original": "pretty",
+    "translations": {
+      "en": "pretty",
+      "tr": "hoş, güzel",
+      "es": "bonita",
+      "fr": "joli",
+      "de": "hübsch",
+      "ar": "جميلة",
+      "ru": "красивый",
+      "zh": "漂亮",
+      "pt": "bonita",
+      "it": "carina"
+    }
+  },
+  {
+    "id": "79",
+    "original": "sad",
+    "translations": {
+      "en": "sad",
+      "tr": "üzgün",
+      "es": "triste",
+      "fr": "triste",
+      "de": "traurig",
+      "ar": "حزين",
+      "ru": "грустный",
+      "zh": "伤心",
+      "pt": "triste",
+      "it": "triste"
+    }
+  },
+  {
+    "id": "80",
+    "original": "Perhaps",
+    "translations": {
+      "en": "perhaps",
+      "tr": "belki",
+      "es": "quizás",
+      "fr": "peut-être",
+      "de": "vielleicht",
+      "ar": "ربما",
+      "ru": "возможно",
+      "zh": "也许",
+      "pt": "talvez",
+      "it": "forse"
+    }
+  },
+  {
+    "id": "81",
+    "original": "needs",
+    "translations": {
+      "en": "needs",
+      "tr": "ihtiyaç duymak",
+      "es": "necesita",
+      "fr": "besoin",
+      "de": "braucht",
+      "ar": "يحتاج",
+      "ru": "нуждается",
+      "zh": "需要",
+      "pt": "precisa",
+      "it": "ha bisogno"
+    }
+  },
+  {
+    "id": "82",
+    "original": "digest",
+    "translations": {
+      "en": "digest",
+      "tr": "sindirmek",
+      "es": "digerir",
+      "fr": "digérer",
+      "de": "verdauen",
+      "ar": "يهضم",
+      "ru": "переваривать",
+      "zh": "消化",
+      "pt": "digerir",
+      "it": "digerire"
+    }
+  }
+]
